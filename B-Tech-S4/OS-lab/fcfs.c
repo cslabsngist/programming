@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-struct sjf {
+struct fcfs {
 	int bt,at,wt,tt,pid;
 }p[10],temp;
 
